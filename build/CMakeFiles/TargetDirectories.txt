@@ -1,4 +1,0 @@
-/c/Users/Sadik/Documents/ember/build/CMakeFiles/ember.dir
-/c/Users/Sadik/Documents/ember/build/CMakeFiles/test.dir
-/c/Users/Sadik/Documents/ember/build/CMakeFiles/edit_cache.dir
-/c/Users/Sadik/Documents/ember/build/CMakeFiles/rebuild_cache.dir
